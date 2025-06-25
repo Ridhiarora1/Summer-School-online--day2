@@ -1,0 +1,13 @@
+This project is a Personal Profile Card
+Inline CSS used to set background-color for the card section 
+Internal CSS is written in the <style> tag in HTML head for 
+-h1,h2(group Selector)
+-contact p(descendant selector)
+-a[href](attribute selector and hover effect)
+
+External CSS in style.css handles:
+#profile-image(ID selector)
+-.card and .bio(class selector)
+-Styling for the profile card container.
+
+Bonus: Hover effect on contact links and box-shadow applied on card.

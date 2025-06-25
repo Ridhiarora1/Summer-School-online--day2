@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin:0;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+
+h1 {
+    text-align: centre ; 
+    text-decoration: underline;
+} 
+#h1{
+    font-weight: 100;
+}
+
+#h2{
+    font-weight: 250;
+} 
+
+#h3{
+    font-weight: 600;
+}
+
+#h4{
+    font-weight: 900;
+}
+
+#one{
+    font-family: arial;
+    line-height: 50px;
+}
+
+#two{
+    font-family: 'Segoe UI';
+} 
+
+#outer{
+    font-size: 25px;
+} 
+#inner{
+    font-size: 10px ;
+}
+
+div{
+    height:100px; 
+    background-color: pink;
+}
+
+
